@@ -98,3 +98,8 @@ SVG(model_to_dot(cnn, show_shapes=True, dpi=65).create(prog='dot', format='svg')
 
 建议修改参数为：`LogisticRegression(solver='lbfgs', max_iter=1000)`
 
+
+## 思维导图
+
+![思维导图](https://github.com/mengbo/machlearn-from-scratch/blob/main/machlearn-from-scratch.mm.png?raw=true)
+
